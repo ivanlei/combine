@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from .combine import __version__
 from .baler import bale
+from .combine import __version__
 from .reaper import reap
 from .thresher import thresh
 from .winnower import winnow
